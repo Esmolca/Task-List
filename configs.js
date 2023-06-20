@@ -2,9 +2,9 @@ let configs = (function () {
   'use strict';
 
   // Authentication and channels - required
-  const channel = ''; // your channel
-  const username = ''; // bot account
-  const oauth = ''; // should be oauth:xxxxxxxxxxxx from the bot account
+  const channel = 'Esmolca'; // your channel
+  const username = 'Esmolca'; // bot account
+  const oauth = 'https://github.com/login/oauth/authorize'; // should be oauth:xxxxxxxxxxxx from the bot account
 
   const horizontal = false; // true or false
   const headerFontSize = '18px'; // must have px at the end
